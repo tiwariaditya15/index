@@ -7,11 +7,12 @@
 
 div.name{
     display: flex;
-    font-size: 50px;
+    font-size: 60px;
     margin-bottom: 1px;
     min-width: 150px;
 }
-
+div.text{
+}
 
 img.avtar{
     width: 100px;
