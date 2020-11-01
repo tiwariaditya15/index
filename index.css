@@ -11,6 +11,9 @@ div.name{
     margin-bottom: 1px;
     min-width: 150px;
 }
+div.text{
+    margin-top: 15px;
+}
 
 img.avtar{
     width: 100px;
@@ -30,6 +33,6 @@ div.links{
     display: flex;
 }
 
-.linkedin, .instagram, .youtube,.twitch,.github,.twitter,.blogs,.instagram{
+.linkedin, .instagram, .youtube, .twitch, .github, .twitter, .blogs, .instagram{
     min-width: 35px;
 }
